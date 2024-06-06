@@ -1,9 +1,9 @@
 # mlc_llm_Modify
 mlc_llm function adds minicpm and minicpm_v adaptations
 
-Modified all the contents in the mistral folder under the model
+Modified all the contents in the mistral folder under the mlc-llm/python/mlc_llm/model
 
-Also modified the code of model.py under the model
+Also modified the code of model.py under the mlc-llm/python/mlc_llm/model
 
 When implementing the mlc_llmg tool operation, you can accept large language models with model types minicpm and minicpm_v.
 
